@@ -1,0 +1,11 @@
+#h1-header {
+  /* display: inline-block; */
+  text-align: center;
+  background-color: green;
+  /* height: 50px; */
+  margin: auto 0;
+  color: white;
+  padding: 20px 0;
+  font-family: sans-serif;
+  text-transform: capitalize;
+}
